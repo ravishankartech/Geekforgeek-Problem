@@ -18,9 +18,10 @@ class Solution {
             }
         }
 
-        ArrayList<Integer> result = new ArrayList<>();
-        result.add(min);
-        result.add(max);
+        
+         ArrayList<Integer> result = new ArrayList<>();
+         result .add(min);
+         result.add(max);
 
         return result;
     }
