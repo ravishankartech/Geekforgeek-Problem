@@ -1,5 +1,3 @@
-
-
 class Solution {
     public void rotate(int[] arr) {
          int n = arr.length;
